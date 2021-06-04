@@ -8,6 +8,6 @@
 - :medical_symbol: During the pandemic :mask: I started :running: and :bicyclist: helped me through these difficult times
 - :stuck_out_tongue_winking_eye: Don't wait until tomorrow starts today :sunglasses:
 
-Stack: php, laravel, javascript, nodejs, typescript, elasticsearch. Other interests: react and react native
+Stack: php, laravel, javascript, nodejs, typescript, elasticsearch. Other interests: react ,react native and DRUMS
 
 #### Contact: [Linkedin](https://www.linkedin.com/in/gustavo-roque-706324b6/)
