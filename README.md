@@ -1,13 +1,13 @@
-# Hello :earth_americas: , I'm Gustavo Roque
+# Hello :earth_americas:, I'm Gustavo Roque
 
-#### But everyone just calls me **Roque** 
-#### By definition i can't be a rock i can't stand still
-- :desktop_computer: I work at @FolhaSP as a backend developer with Laravel/PHP
-- :student: At the moment Nodejs is my focus, but I'm an eternal student of :drum:
-- 🌱 I’m also learning react and react native
-- :medical_symbol: During the pandemic :mask: I started :running: and :bicyclist: helped me through these difficult times
-- :stuck_out_tongue_winking_eye: Don't wait until tomorrow starts today :sunglasses:
+#### But everyone just calls me **Roque**  
+#### By definition, I can't be a rock—I can't stand still.  
+- :desktop_computer: At the moment, I work at @decathlonbrasil as a solution architect, but I used to be a developer at @folhasp.  
+- :student: Right now, AWS Cloud is my focus, but I'm a lifelong student of :drum:.  
+- 🌱 I’m also learning about financial stuff with phyton.  
+- :medical_symbol: During the pandemic :mask:, I started :running: and :bicyclist:, which helped me through those difficult times.  
+- :stuck_out_tongue_winking_eye: Don't wait until tomorrow—start today! :sunglasses:  
 
-Stack: php, laravel, javascript, nodejs, typescript, elasticsearch. Other interests: react ,react native and DRUMS
+Stack: PHP, Laravel, JavaScript, Node.js, TypeScript, Elasticsearch. Other interests: Python, system-desygn, c4-model, cloud stuff, elasticsearch and DRUMS.  
 
-#### Contact: [Linkedin](https://www.linkedin.com/in/gustavo-roque-706324b6/)
+#### Contact: [LinkedIn](https://www.linkedin.com/in/gustavo-roque-706324b6/)  
